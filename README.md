@@ -1,6 +1,6 @@
 # PDF Flipbook
 
-https://pdfflipbook.vercel.app - Demo
+https://garytyk.github.io/ebook/ - Demo
 
 ## FAQ
 
