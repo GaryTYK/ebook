@@ -113,7 +113,7 @@ Create Flipbook through Button lightbox.
 ```
 ## Acknowledgements
 
- - [Dflip]()
+ - [Dflip](https://dearflip.com/docs/)
 
 
 ## Authors
