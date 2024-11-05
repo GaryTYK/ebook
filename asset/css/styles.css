@@ -80,6 +80,16 @@ img {
     display: block;
 }
 
+.button {
+    display: inline-block;
+    background-color: var(--first-color);
+    color: #fff;
+    padding: 0.75rem 2.5rem;
+    font-weight: var(--font-semi);
+    border-radius: 0.5rem;
+    transition: 0.3s;
+}
+
 .bookshelf .shelf-img {
     z-index: 0;
     height: auto;
